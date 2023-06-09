@@ -1,0 +1,69 @@
+
+Il file di testo ha: 498 frasi
+
+Lista dei primi 10pos più frequenti:  [('NN', 2685), ('IN', 1931), ('NNP', 1849), (',', 1805), ('DT', 1564), ('PRP', 1481), ('JJ', 1163), ('VBD', 1042), ('RB', 906), ('VB', 845)]
+
+Lista dei primi 10pos più frequenti:  [('NN', 2685), ('IN', 1931), ('NNP', 1849), (',', 1805), ('DT', 1564), ('PRP', 1481), ('JJ', 1163), ('VBD', 1042), ('RB', 906), ('VB', 845)]
+
+Lista bigrammi top 10 :  [(('DT', 'NN'), 871), (('IN', 'DT'), 680), (('NN', ','), 568), (('NN', 'IN'), 557), (('JJ', 'NN'), 509), (('NNP', 'NNP'), 471), (('NNP', ','), 436), (('DT', 'JJ'), 382), (('PRP', 'VBP'), 352), ((',', 'NNP'), 328)]
+Lista trigrammi top 10 : [(('IN', 'DT', 'NN'), 382), (('DT', 'JJ', 'NN'), 273), (('DT', 'NN', 'IN'), 262), (('NN', 'IN', 'DT'), 206), (('DT', 'NN', ','), 162), (('IN', 'DT', 'JJ'), 158), ((',', 'NNP', 'VBD'), 154), (('NNP', 'NNP', 'NNP'), 143), (('NN', ',', 'CC'), 140), (('JJ', 'NN', ','), 132)]
+
+I 20 sostantivi più frequenti:  [(('”', 'NNP'), 341), (('“', 'NNP'), 267), (('“', 'NN'), 160), (('”', 'NN'), 144), (('Dantès', 'NNP'), 130), (('Danglars', 'NNP'), 116), (('Fernand', 'NNP'), 98), (('Caderousse', 'NNP'), 90), (('’', 'NNP'), 76), (('man', 'NN'), 69), (('Mercédès', 'NNP'), 63), (('Edmond', 'NNP'), 60), (('M.', 'NNP'), 45), (('Morrel', 'NNP'), 45), (('father', 'NN'), 37), (('s', 'NN'), 35), (('time', 'NN'), 27), (('Well', 'NNP'), 26), (('hand', 'NN'), 22), (('Yes', 'NNP'), 21)]
+I 20 aggettivi più frequenti:  [(('”', 'JJ'), 82), (('“', 'JJ'), 61), (('young', 'JJ'), 45), (('old', 'JJ'), 39), (('good', 'JJ'), 28), (('’', 'JJ'), 23), (('dear', 'JJ'), 19), (('first', 'JJ'), 17), (('other', 'JJ'), 17), (('poor', 'JJ'), 15), (('more', 'JJR'), 13), (('own', 'JJ'), 13), (('much', 'JJ'), 12), (('little', 'JJ'), 11), (('same', 'JJ'), 10), (('such', 'JJ'), 10), (('happy', 'JJ'), 10), (('small', 'JJ'), 9), (('last', 'JJ'), 9), (('s', 'JJ'), 9)]
+I 20 avverbi più frequenti:  [(('not', 'RB'), 144), (('so', 'RB'), 48), (('then', 'RB'), 31), (('now', 'RB'), 29), (('here', 'RB'), 27), (('very', 'RB'), 25), (('well', 'RB'), 20), (('only', 'RB'), 16), (('never', 'RB'), 16), (('Then', 'RB'), 15), (('as', 'RB'), 14), (('again', 'RB'), 14), (('too', 'RB'), 14), (('back', 'RB'), 14), (('more', 'RBR'), 13), (('just', 'RB'), 13), (('there', 'RB'), 12), (('always', 'RB'), 11), (('most', 'RBS'), 11), (('already', 'RB'), 10)]
+
+I 20 bigrammi con probabilità condizionata massima:
+inner port  - Probabilità: 1.0
+twenty-four hours  - Probabilità: 1.0
+burial service  - Probabilità: 1.0
+thirty-six-pound shot  - Probabilità: 1.0
+twenty-six years  - Probabilità: 1.0
+unprepossessing countenance  - Probabilità: 1.0
+responsible agent  - Probabilità: 1.0
+first-rate seaman  - Probabilità: 1.0
+honorable service  - Probabilità: 1.0
+anyone. ”  - Probabilità: 1.0
+thorough seaman  - Probabilità: 1.0
+suddenly— “  - Probabilità: 1.0
+him. ”  - Probabilità: 1.0
+there. ”  - Probabilità: 1.0
+trouble. ”  - Probabilità: 1.0
+satisfactory reasons  - Probabilità: 1.0
+mistaken. ”  - Probabilità: 1.0
+sir. ”  - Probabilità: 1.0
+detained. ”  - Probabilità: 1.0
+inquired Dantès  - Probabilità: 1.0
+Bigramma: ('”', '“') - PMI: 11.04074634234331
+Bigramma: ('responsible', 'agent') - PMI: 10.625708843064466
+Bigramma: ('’', 't') - PMI: 9.848101264400913
+Bigramma: ('inner', 'port') - PMI: 9.625708843064466
+Bigramma: ('twenty-four', 'hours') - PMI: 9.625708843064466
+Bigramma: ('thirty-six-pound', 'shot') - PMI: 9.625708843064466
+Bigramma: ('’', 's') - PMI: 9.625708843064466
+Bigramma: ('satisfactory', 'reasons') - PMI: 9.625708843064466
+Bigramma: ('handsome', 'mistress') - PMI: 9.625708843064466
+Bigramma: ('secret', 'wishes') - PMI: 9.625708843064466
+Bigramma: ('sole', 'owner') - PMI: 9.625708843064466
+Bigramma: ('Italian', 'proverb—_Chi') - PMI: 9.625708843064466
+Bigramma: ('least', 'half') - PMI: 9.625708843064466
+Bigramma: ('greatest', 'respect') - PMI: 9.625708843064466
+Bigramma: ('thousand', 'thanks') - PMI: 9.625708843064466
+Bigramma: ('stern', 'sheets') - PMI: 9.625708843064466
+Bigramma: ('modern', 'Phocéens') - PMI: 9.625708843064466
+Bigramma: ('evil', 'suspicions') - PMI: 9.625708843064466
+Bigramma: ('louis', 'pay') - PMI: 9.625708843064466
+Bigramma: ('hollow', 'cheeks') - PMI: 9.625708843064466
+
+Lista dei 20 bigrammi aggettivi,sostantivi più frequenti:  [(('”', '“'), 56), (('young', 'man'), 24), (('old', 'man'), 23), (('’', 't'), 7), (('young', 'girl'), 7), (('’', 's'), 6), (('old', 'Dantès'), 6), (('“', 'Ah'), 5), (('it.', '”'), 5), (('young', 'sailor'), 4), (('dear', 'father'), 4), (('good', 'fortune'), 4), (('”', 'Fernand'), 4), (('him.', '”'), 3), (('first', 'visit'), 3), (('dear', 'Edmond'), 3), (('good', 'fellow'), 3), (('’', 'clock'), 3), (('happy.', '”'), 3), (('dear', 'boy'), 3)]
+
+Frase con media della distribuzione di freq più alta:  I won’t have him killed—I won’t!
+Frase con media della distribuzione di freq più bassa:  After a long talk with the
+harbor-master, Captain Leclere left Naples greatly disturbed in mind.
+
+Ordinamento NE persone decrescente:  [('Dantès', 112), ('Danglars', 112), ('Caderousse', 69), ('Edmond', 35), ('Mercédès', 21), ('Fernand', 16), ('Marseilles', 11), ('Morrel', 7), ('EdmondDantès', 6), ('Catalan', 5), ('CaptainLeclere', 4), ('LaCanebière', 3), ('Hallo', 3), ('LaRéserve', 2), ('Son', 2)]
+
+Ordinamento NE luoghi decrescente:  [('Fernand', 82), ('Mercédès', 18), ('Edmond', 14), ('Caderousse', 10), ('Dantès', 8), ('Danglars', 5), ('Elba', 5), ('Paris', 5), ('Smyrna', 2), ('English', 2), ('Morrel', 2), ('CaptainLeclere', 2), ('Spanish', 2), ('French', 2), ('Naples', 1)]
+
+Ordinamento NE nomi decrescente:  [('_Pharaon_', 15), ('Mercédès', 15), ('Catalan', 7), ('Catalans', 6), ('Caderousse', 6), ('Island', 5), ('No', 4), ('Fort', 2), ('Marseilles', 2), ('Elba', 2), ('Allées', 2), ('Come', 2), ('Catalane', 2), ('Vieilles', 2), ('Bonapartist', 2)]
+
+La frase con probabilità maggiore nell'intero corpus,secondo un modello di Markov di ordine 2, è :  (1.0, ('lovely', 'damsel', '!'))

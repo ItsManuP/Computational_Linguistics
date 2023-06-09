@@ -1,0 +1,71 @@
+
+Il file di testo ha: 1004 frasi
+
+Lista dei primi 10pos più frequenti:  [('NN', 4985), (',', 2819), ('IN', 2653), ('NNP', 2535), ('JJ', 2306), ('DT', 1726), ('RB', 1382), ('PRP', 1211), ('PRP$', 1187), ('NNS', 1163)]
+
+Lista dei primi 10pos più frequenti:  [('NN', 4985), (',', 2819), ('IN', 2653), ('NNP', 2535), ('JJ', 2306), ('DT', 1726), ('RB', 1382), ('PRP', 1211), ('PRP$', 1187), ('NNS', 1163)]
+
+Lista bigrammi top 10 :  [(('NN', ','), 1099), (('JJ', 'NN'), 1064), (('NNP', 'NNP'), 847), (('DT', 'NN'), 830), (('NN', 'NN'), 728), (('PRP$', 'NN'), 625), ((',', 'IN'), 562), (('NN', 'IN'), 558), (('IN', 'NN'), 539), ((',', 'NNP'), 518)]
+Lista trigrammi top 10 : [(('NNP', 'NNP', 'NNP'), 553), (('DT', 'JJ', 'NN'), 318), (('JJ', 'NN', ','), 259), (('IN', 'DT', 'NN'), 228), (('NN', ',', 'NNP'), 211), (('PRP$', 'JJ', 'NN'), 197), (('IN', 'PRP$', 'NN'), 186), (('NN', 'NN', ','), 186), (('NNP', 'NNP', '.'), 178), (('NN', ',', 'IN'), 174)]
+
+I 20 sostantivi più frequenti:  [(('heart', 'NN'), 126), (('eyes', 'NNS'), 108), (('MACGREGOR', 'NNP'), 83), (('Love', 'NNP'), 80), (('Which', 'NNP'), 78), (('life', 'NN'), 75), (('SONNET', 'NNP'), 70), (('day', 'NN'), 62), (('HE', 'NNP'), 61), (('THE', 'NNP'), 55), (('TO', 'NNP'), 53), (('sun', 'NN'), 43), (('soul', 'NN'), 42), (('way', 'NN'), 42), (('love', 'NN'), 39), (('tears', 'NNS'), 36), (('death', 'NN'), 36), (('time', 'NN'), 35), (('OF', 'NNP'), 35), (('A', 'NNP'), 34)]
+I 20 aggettivi più frequenti:  [(('thy', 'JJ'), 58), (('such', 'JJ'), 51), (('bright', 'JJ'), 50), (('other', 'JJ'), 48), (('fair', 'JJ'), 42), (('sweet', 'JJ'), 34), (('long', 'JJ'), 33), (('own', 'JJ'), 33), (('last', 'JJ'), 29), (('old', 'JJ'), 28), (('dear', 'JJ'), 24), (('first', 'JJ'), 24), (('high', 'JJ'), 23), (('more', 'JJR'), 22), (('new', 'JJ'), 21), (('amorous', 'JJ'), 19), (('human', 'JJ'), 19), (('great', 'JJ'), 19), (('true', 'JJ'), 18), (('beauteous', 'JJ'), 18)]
+I 20 avverbi più frequenti:  [(('not', 'RB'), 121), (('so', 'RB'), 116), (('now', 'RB'), 74), (('still', 'RB'), 64), (('then', 'RB'), 58), (('yet', 'RB'), 57), (('never', 'RB'), 37), (('ever', 'RB'), 35), (('alone', 'RB'), 34), (('well', 'RB'), 32), (('long', 'RB'), 32), (('too', 'RB'), 29), (('thus', 'RB'), 25), (('So', 'RB'), 25), (('Not', 'RB'), 25), (('here', 'RB'), 24), (('more', 'RBR'), 23), (('Then', 'RB'), 23), (('soon', 'RB'), 22), (('far', 'RB'), 19)]
+
+I 20 bigrammi con probabilità condizionata massima:
+il velo  - Probabilità: 1.0
+beam 'd  - Probabilità: 1.0
+foolish heart  - Probabilità: 1.0
+envious veil  - Probabilità: 1.0
+lustre spent  - Probabilità: 1.0
+gay wreaths  - Probabilità: 1.0
+boldness love  - Probabilità: 1.0
+fra l  - Probabilità: 1.0
+altre donne  - Probabilità: 1.0
+radiant form  - Probabilità: 1.0
+right-hand way  - Probabilità: 1.0
+mi rivolgo  - Probabilità: 1.0
+frail life  - Probabilità: 1.0
+tearful eyes  - Probabilità: 1.0
+wasted frame  - Probabilità: 1.0
+capricious flame  - Probabilità: 1.0
+purpose tame  - Probabilità: 1.0
+faint resemblance  - Probabilità: 1.0
+quest tire  - Probabilità: 1.0
+lagrime dal  - Probabilità: 1.0
+Bigramma: ('courteous', 'habit') - PMI: 11.605479518061669
+Bigramma: ('il', 'velo') - PMI: 10.605479518061669
+Bigramma: ('lustre', 'spent') - PMI: 10.605479518061669
+Bigramma: ('gay', 'wreaths') - PMI: 10.605479518061669
+Bigramma: ('altre', 'donne') - PMI: 10.605479518061669
+Bigramma: ('mi', 'rivolgo') - PMI: 10.605479518061669
+Bigramma: ('purpose', 'tame') - PMI: 10.605479518061669
+Bigramma: ('faint', 'resemblance') - PMI: 10.605479518061669
+Bigramma: ('quest', 'tire') - PMI: 10.605479518061669
+Bigramma: ('lagrime', 'dal') - PMI: 10.605479518061669
+Bigramma: ('peaceful', 'balm') - PMI: 10.605479518061669
+Bigramma: ('lady', 'beam') - PMI: 10.605479518061669
+Bigramma: ('animali', 'al') - PMI: 10.605479518061669
+Bigramma: ('enjoyment', 'run') - PMI: 10.605479518061669
+Bigramma: ('fiercer', 'burn') - PMI: 10.605479518061669
+Bigramma: ('attempt', 'doth') - PMI: 10.605479518061669
+Bigramma: ('animale', 'alberga') - PMI: 10.605479518061669
+Bigramma: ('terra._', 'NIGHT') - PMI: 10.605479518061669
+Bigramma: ('sober', 'evening') - PMI: 10.605479518061669
+Bigramma: ('pliant', 'passionate') - PMI: 10.605479518061669
+
+Lista dei 20 bigrammi aggettivi,sostantivi più frequenti:  [(('bright', 'eyes'), 18), (('beauteous', 'eyes'), 7), (('last', 'day'), 6), (('golden', 'tresses'), 5), (('fair', 'face'), 4), (('fair', 'desire'), 3), (('fierce', 'passion'), 3), (('mine', 'eyes'), 3), (('long', 'years'), 3), (('bright', 'hair'), 3), (('lovely', 'face'), 3), (('thy', 'heart'), 3), (('such', 'power'), 3), (('last', 'days'), 2), (('sweet', 'face'), 2), (('poor', 'eyes'), 2), (('tearful', 'eyes'), 2), (('other', 'chase'), 2), (('thy', 'spirit'), 2), (('poor', 'family'), 2)]
+
+Frase con media della distribuzione di freq più alta:  O valleys, hills, O forests, floods, and plains,
+    Witnesses of my melancholy life!
+Frase con media della distribuzione di freq più bassa:  _Occhi miei lassi, mentre ch' io vi giro._
+
+HE INVITES HIS EYES TO FEAST THEMSELVES ON LAURA.
+
+Ordinamento NE persone decrescente:  [('Which', 71), ('Love', 53), ('Lady', 10), ('Till', 10), ('Alone', 7), ('Death', 6), ('Alas', 6), ('Haply', 5), ('Whom', 5), ('Though', 5), ('How', 5), ('Reason', 5), ('Already', 4), ('Who', 4), ('Had', 4)]
+
+Ordinamento NE luoghi decrescente:  [('Nor', 12), ('Love', 10), ('Whose', 8), ('So', 4), ('Whence', 4), ('Wherefore', 4), ('Though', 3), ('Rome', 3), ('Which', 3), ('Long', 3), ('Heaven', 3), ('East', 3), ('Europe', 3), ('Italy', 3), ('Nature', 3)]
+
+Ordinamento NE nomi decrescente:  [('MACGREGOR', 83), ('SONNET', 70), ('THE', 22), ('HIS', 11), ('BUT', 10), ('NOTT', 9), ('WOLLASTON', 8), ('CANZONE', 8), ('AND', 7), ('No', 7), ('WRANGHAM', 5), ('BALLATA', 4), ('COMPARES', 4), ('LAURA', 3), ('HER', 3)]
+
+La frase con probabilità maggiore nell'intero corpus,secondo un modello di Markov di ordine 2, è :  (1.0, ('CAPEL', 'LOFFT', '.'))
